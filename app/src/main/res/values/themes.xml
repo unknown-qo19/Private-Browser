@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PrivateBrowser" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1A1A1A</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#00C853</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+</resources>
